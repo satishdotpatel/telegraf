@@ -21,7 +21,7 @@ else:
 if args.org:
     org = args.org
 else:
-    org = 'vivox.com'
+    org = 'example.com'
 
 # Set proxy if one is given otherwise default to proxy.$domain.$org
 if args.proxy:
